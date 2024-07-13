@@ -12,4 +12,4 @@ and more coming soon
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O6ZUUL0)
 
-<img src="images/image.png">
+<img src="images/profile.png">
